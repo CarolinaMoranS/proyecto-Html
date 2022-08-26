@@ -1,0 +1,159 @@
+
+h1{
+    color:rgb(124, 131, 58);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 70px;
+    margin-bottom: 2px;
+    margin-top: 2px;
+    padding: 2px;
+    height: 35px;
+}
+.logo{
+    border-radius: 5%;
+}
+.text-center{
+    text-align: center;
+}
+.text-left{
+    text-align: center;
+}
+h2{
+    color: rgb(73, 94, 54);
+    font-family: 'Times New Roman', Times, serif;
+}
+#cabezera2{
+    font-size: 20px;
+    color:rgb(5, 5, 5);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align:center;
+}
+body{
+    background-color: rgb(255, 248, 248);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+p{
+    font-style: italic;
+}
+.text-danger{
+    color: rgb(255, 89, 89);
+    font-weight: bold;
+}
+.text-cr{
+    color: black;
+    font-weight: bold;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 30px;
+}
+.text-album{
+    color: black;
+    font-size: 25px;
+    font-weight: bold;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+ul{
+    font-size: 15px;
+    border-radius: 50%;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+pre{
+    font-size: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: right;
+}
+.buttons{
+    min-width: 700px;
+    display: flex;
+    justify-content: space-evenly;
+    position:inherit;
+}
+.buttons a{
+    text-decoration: none;
+    font-size: 18px;
+    width: 30px;
+    height: 30px;
+    line-height: 30px;
+    text-align: center;
+    background: rgb(27, 27, 27);
+    color: rgb(99, 121, 48);
+    border-radius: 50%;
+    box-shadow: 4px 4px 12px rgb(82, 82, 82);
+    transition: all .25s ease-in-out;
+}
+.buttons a:hover{
+    transform:escale(1.2);
+    color: rgb(90, 102, 36);
+    background-color: rgb(201, 212, 134);
+    
+
+}
+pre{
+    color: black;
+    font-weight: bold;
+}
+.album{
+    border-radius: 10%;
+    box-shadow: 4px 4px 6px rgb(100, 100, 100);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.imagen{
+    border-radius: 2%;
+    box-shadow: 4px 4px 6px rgb(100, 100, 100);
+}
+.palenques{
+    color: black;
+    font-weight: bold;
+}
+.contratos{
+    width: 400px;
+    background: #24303c;
+    padding: 30px;
+    margin: auto;
+    margin-top: 100px;
+    border-radius: 4px;
+    font-family: 'Times New Roman';
+    color: white;
+    box-shadow: 7px 13px 37px #000;
+}
+.contratos h4{
+    font-size: 22px;
+    margin-bottom: 20px;
+
+}
+.control{
+    width: 100%;
+    background: #4a545e;
+    padding: 10px;
+    border-radius: 4px;
+    margin-bottom: 16px;
+    border: 1px solid #1f53c5;
+    font-family: 'Georgia';
+    font-size: 18px;
+}
+.contratos p{
+    height: 40px;
+    text-align: center;
+    font-size: 18px;
+}
+.contratos a:hover{
+    color: white;
+    text-decoration: underline;
+}
+.event{
+    font-size: 25px;
+    font-weight: bold;
+    color: black;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+}
+.eventos{
+    font-size: 50px;
+}
+.discos{
+    color: black;
+    font-weight: bold;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+.palenques{
+    font-size: 15px;
+    font-family:Arial, Helvetica, sans-serif
+    
+}
